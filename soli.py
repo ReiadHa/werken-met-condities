@@ -1,6 +1,5 @@
 evrvaring = int(input('hoeveel jaren praktijkervaring heb je? '))
 diploma   = input('wat is je hoogtse diploma? ')
-haar = ''
 hoed      = input('heb jij een grote hoed? ')
 geslacht  = input('ben je een man of een voruw? ')
 if geslacht =='man': 
