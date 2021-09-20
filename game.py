@@ -8,7 +8,7 @@ print('')
 print('there is a machien gun on your left rear, and a door that could be locked on ur right! ')
 print('there also a mysterious treasure room behind u! ')
 print('')
-print('do u want to pick up the gun and kill the monsters, or run away throgh the door and lock it?')
+print('do u want to pick up the gun and kill the monsters, or run away through the door and lock it?')
 print('there is also a thrid option wich is for')
 machiengun = input(' type "gun" for gun and "door" for the door and "room" to go the mysteirous treasure room. ')
 if machiengun == 'gun' :
